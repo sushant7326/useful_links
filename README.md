@@ -5,4 +5,4 @@ links for previous work
 https://2023.optima.org.in/
 
 ## GC-Tech 2024 Open-Soft, IIT Kharagpur
-popkorn.tech/
+https://popkorn.tech/
