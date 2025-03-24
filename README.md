@@ -8,5 +8,5 @@ https://2023.optima.org.in/
 https://popkorn.tech/
 
 ## Real-Time Sensor Data Monitoring and Control Dashboard
-https://smartev.vercel.app/
-Hosted without backend
+https://smartev.vercel.app/  
+hosted without backend
