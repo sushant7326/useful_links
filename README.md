@@ -10,3 +10,6 @@ https://popkorn.tech/
 ## Real-Time Sensor Data Monitoring and Control Dashboard
 https://smartev.vercel.app/  
 hosted without backend
+
+## Some Linux Shell Scripts
+https://github.com/sushant7326/linux-cheatsheet
