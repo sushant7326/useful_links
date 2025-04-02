@@ -13,3 +13,6 @@ hosted without backend
 
 ## Some Linux Shell Scripts
 https://github.com/sushant7326/linux-cheatsheet
+
+## Expense Tracker API using Express and PostgreSQL
+https://github.com/sushant7326/expense-tracker
