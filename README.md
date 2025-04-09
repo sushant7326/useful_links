@@ -1,6 +1,10 @@
 # useful_links
 links for previous work
 
+## Popkorn.tech  
+https://popkorn.tech/  
+(taken offline to accomodate GC Tech 2024-25 solution)  
+
 ## Optima 2023 website
 https://2023.optima.org.in/
 
