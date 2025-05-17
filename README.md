@@ -1,15 +1,17 @@
 # useful_links
 links for previous work
 
-## Popkorn.tech  
-https://popkorn.tech/  
-(taken offline due to domain expiration and to accomodate GC Tech 2024-25 solution)  
+## Quantum Genie Internship Completion Certificate
+https://drive.google.com/file/d/1BsjXD6hOMFqaBa8gXbduJNHsmEdrvn5p/view?usp=sharing
+
+## Popkorn.tech (GC-Tech 2024 Open-Soft, IIT Kharagpur)
+https://opensoft2024-frontend.vercel.app/  
+
+## Optima 2025 Website Backend
+https://optima.org.in
 
 ## Optima 2023 website
 https://2023.optima.org.in/
-
-## GC-Tech 2024 Open-Soft, IIT Kharagpur
-https://popkorn.tech/
 
 ## Real-Time Sensor Data Monitoring and Control Dashboard
 https://smartev.vercel.app/  
