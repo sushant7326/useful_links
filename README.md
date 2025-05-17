@@ -14,8 +14,8 @@ https://optima.org.in
 https://2023.optima.org.in/
 
 ## Real-Time Sensor Data Monitoring and Control Dashboard
-https://smartev.vercel.app/  
-hosted without backend
+https://youtu.be/HEXh0TOaYHE  
+(Project Demonstration)
 
 ## Some Linux Shell Scripts
 https://github.com/sushant7326/linux-cheatsheet
