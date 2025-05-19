@@ -17,8 +17,8 @@ https://2023.optima.org.in/
 https://youtu.be/HEXh0TOaYHE  
 (Project Demonstration)
 
+## Expense Tracker API using Express and PostgreSQL (with API documentation)
+https://github.com/sushant7326/expense-tracker
+
 ## Some Linux Shell Scripts
 https://github.com/sushant7326/linux-cheatsheet
-
-## Expense Tracker API using Express and PostgreSQL
-https://github.com/sushant7326/expense-tracker
